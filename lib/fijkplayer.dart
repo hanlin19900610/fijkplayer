@@ -49,3 +49,4 @@ part 'ui/panel.dart';
 part 'ui/panel2.dart';
 part 'ui/slider.dart';
 part 'ui/volume.dart';
+part 'core/fijkaudioview.dart';
